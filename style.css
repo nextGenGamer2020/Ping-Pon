@@ -1,27 +1,24 @@
-
-.heading
+body
 {
-font-size: 23px;
-width: 100%;
-margin: 0px;
+
+}
+.heading h3{
+    display: inline;
 }
 
-#status
-{
-font-size: 18px;
+
+.heading{
+    width: 100%;
+    
 }
 
-body{
-    background-size:cover;
-    background-position:center;
-}
-.btn-info{
-    width:100%;
-    font-size:20px
+.heading button{
+    float: right;
+    border: 1px solid white;
 }
 
-canvas{
-    border: 10px solid black;
-    border-radius: 20px;
-    box-shadow: 10px 10px 10px blue;
+#footer{
+    color: white;
+    font-weight:bold;
+    font-size: 20px;
 }
